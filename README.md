@@ -1,6 +1,6 @@
 # blog
-The Intern Academey Internship
+# The Intern Academey Internship
 
-Domain:Web Development
+Domain: Web Development
 
-Task1:Blogging Website
+Task1: Blogging Website
